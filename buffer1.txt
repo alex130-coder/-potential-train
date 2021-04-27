@@ -1,0 +1,23 @@
+alex@debian:~$ tmux capture-pane && tmux save-buffer buffer1.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
